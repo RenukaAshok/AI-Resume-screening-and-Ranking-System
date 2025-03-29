@@ -1,5 +1,6 @@
 # AI-Resume-screening-and-Ranking-System
-# Resume Ranking System using Streamlit
+
+Overview :
 
 This project is an AI-based Resume Ranking System built using Python and Streamlit. It helps recruiters and job seekers by ranking resumes based on their similarity to a given job description using **TF-IDF** and **Cosine Similarity** techniques.
 
